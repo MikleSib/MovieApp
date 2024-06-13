@@ -19,7 +19,7 @@
 
 <b>AppDbContext.cs:</b> Контекст базы данных, определяет таблицы и отношения между ними.
 
-Модели
+<h2>Модели</h2>
 
 <b>Actor.cs:</b> Модель актёра.
 
@@ -27,10 +27,10 @@
 
 <b>MovieActor.cs:</b> Связующая модель между фильмами и актёрами.
 
-ViewModels
+<b>MViewModels</b>
 Модели представления, обрабатывающие логику приложения.
 
-Views
+<b>MViews</b>
 Представления для взаимодействия с пользователем.
 
 Автоматическое создание базы данных
@@ -55,15 +55,22 @@ public App()
 ```
 private void OnSearch()
 {
-    using (var db = new AppDbContext())
+    string _dbPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "movies.db");
+    using (var db = new AppDbContext(_dbPath))
     {
-        var query = db.Movies.Include(m => m.MovieActors).ThenInclude(ma => ma.Actor).AsQueryable();
+        var query = db.Movies.Include(m => m.MovieActors).AsQueryable();
 
         if (!string.IsNullOrEmpty(SearchText))
         {
-            query = query.Where(m => m.Title.ToLower().Contains(SearchText.ToLower()) ||
-                                      m.Genre.ToLower().Contains(SearchText.ToLower()) ||
-                                      m.MovieActors.Any(a => a.Actor.Name.ToLower().Contains(SearchText.ToLower())));
+            string searchTextLower = SearchText.ToLower(); 
+
+            query = query.Where(m =>
+                m.Title.ToLower().Contains(searchTextLower) ||
+                m.Genre.ToLower().Contains(searchTextLower) ||
+                m.MovieActors.Any(a =>
+                    a.Actor.Name.ToLower().Contains(searchTextLower)
+                )
+            );
         }
 
         Movies = new ObservableCollection<Movie>(query.ToList());
