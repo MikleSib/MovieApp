@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MovieAppHHRU.Views.MainPage"
+             xmlns:local="clr-namespace:MovieAppHHRU.ViewModels"
+             >
+    <ContentPage.BindingContext>
+        <local:MovieSearchViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout Padding="10">
+        <Entry Placeholder="Введите название, жанр или имя актера"
+                Text="{Binding SearchText}" />
+        <Button Text="Поиск"
+                Command="{Binding SearchCommand}" />
+        <CollectionView ItemsSource="{Binding Movies}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding Title}" FontSize="20" />
+                        <Label Text="{Binding Genre}" FontSize="14" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>
+

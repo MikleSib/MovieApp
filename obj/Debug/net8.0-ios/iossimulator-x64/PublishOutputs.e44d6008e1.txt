@@ -1,0 +1,1 @@
+C:\Users\Mikhail\source\repos\MovieAppHHRU\bin\Debug\net8.0-ios\iossimulator-x64\publish\MovieAppHHRU.deps.json

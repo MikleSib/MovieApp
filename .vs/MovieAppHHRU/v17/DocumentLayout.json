@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\tests\\appdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:tests\\appdbcontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\viewmodels\\moviesearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:viewmodels\\moviesearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|c:\\users\\mikhail\\source\\repos\\movieapphhru\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D59264D8-901E-46E0-9092-D97568B51B2D}|MovieAppHHRU.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContextTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Tests\\AppDbContextTests.cs",
+              "RelativeDocumentMoniker": "Tests\\AppDbContextTests.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Tests\\AppDbContextTests.cs",
+              "RelativeToolTip": "Tests\\AppDbContextTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:48:51.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:14:57.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Models\\Actor.cs",
+              "RelativeToolTip": "Models\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:14:57.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:12:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieSearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\ViewModels\\MovieSearchViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MovieSearchViewModel.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\ViewModels\\MovieSearchViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MovieSearchViewModel.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:10:55.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Views\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:56:30.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Views\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T06:56:26.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T06:55:15.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:53:50.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:56:54.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieActor.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Models\\MovieActor.cs",
+              "RelativeDocumentMoniker": "Models\\MovieActor.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\source\\repos\\MovieAppHHRU\\Models\\MovieActor.cs",
+              "RelativeToolTip": "Models\\MovieActor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:16:59.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
